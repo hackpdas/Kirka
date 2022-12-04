@@ -3,7 +3,7 @@
 (function() {
     'use strict';
 
-    let toggle = "Key|";
+    let toggle = "KeyT";
     let debug = true;
     let console = false;
     initMod({toggle, debug, console});
